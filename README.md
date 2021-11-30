@@ -18,7 +18,7 @@ $ cd react-chart - go to the client folder
 $ npm install - install dependencies
 $ npm run start - run the client
 Server
-$ git clone https://github.com/and-dzh3/ws-srv.git - clone this repository
+$ git clone https://github.com/and-dzh3/ws-srv.git - clone server repository
 $ cd ws-srv - go to the server folder
 $ npm install - install dependencies
 $ npm i -g typescript - install typescript
